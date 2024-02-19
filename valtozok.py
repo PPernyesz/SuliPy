@@ -9,3 +9,5 @@ szo2 = "grape"
 print(szam)
 print(szo)
 print(szo2)
+
+print("Uploded to GitHub :)")
