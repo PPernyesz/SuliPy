@@ -20,3 +20,5 @@ Többsoros kommentet írhatunk
 
 print("Apple tree") # Ez marad így
 # print('Apple tree')
+
+print("Uploded to GitHub :)")
